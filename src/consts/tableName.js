@@ -1,1 +1,3 @@
-export const TABLE_NAME = "destinations";
+export const TABLE_NAME = {
+    DESTINATIONS: "destinations"
+};
